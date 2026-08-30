@@ -8,7 +8,8 @@ The schematics representing this ProfiNET Control Fabric are ordered as follows:
 * (Cadmatic) 1. Cable Tray Arrangement From Source to Load
 * (ETAP) 2. Voltage Drop and Cable Selection
 * (DraftSight) 3. 1000VDC 440VAC 220VAC Ship Microgrid of HSC Ferry
-* (DraftSight) 4. AC/DC Bus General Arrangement 
+* (DraftSight) 4. AC/DC Bus General Arrangement
+* (Excel) 5. Battery Regimes
 
 © [2026] [Velikov, Aleksandar (Alexander)]. All rights reserved. This project and the underlying technologies are protected by international copyright laws
 
