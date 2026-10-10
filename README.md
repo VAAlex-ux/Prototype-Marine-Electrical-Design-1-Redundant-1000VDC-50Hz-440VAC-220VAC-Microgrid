@@ -1,5 +1,5 @@
 # Prototype-Marine-Electrical-Design-1-Redundant-1000VDC-50Hz-440VAC-220VAC-Microgrid
-Designed a 77600kW distribution grid using redundant EI insulated fiber optic cables to monitor higher order frequency noise, CAN Bus A/B Protocols for a 85m x 26m ship with a 26m catamaran channel. Utilizes \(\text{LiMn}_x\text{Fe}_{1-x}\text{PO}_4\) chemistry with an average global 0.5 C rate.
+Designed a 77600kW distribution grid using redundant EI insulated fiber optic cables to monitor higher order frequency noise, CAN Bus A/B Protocols for a 85m x 26m ship with a 26m catamaran channel. Utilizes $\text{LiMn}_x\text{Fe}_{1-x}\text{PO}_4$ chemistry with an average global 0.5 C rate.
 
 Order of Documents and Legend
 
